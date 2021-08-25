@@ -1,0 +1,8 @@
+server.host: 0.0.0.0
+elasticsearch_url: "http://192.168.99.100:9200"
+
+xpack.encryptedSavedObjects.encryptionKey:
+xpack.reporting.encryptionKey:
+xpack.reporting.kibanaServer.hostname: 0.0.0.0
+xpack.security.encryptionKey:
+
